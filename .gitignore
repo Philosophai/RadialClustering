@@ -1,0 +1,13 @@
+# .gitignore
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore .pyc, .pyo and .pyd files
+*.pyc
+*.pyo
+*.pyd
+
